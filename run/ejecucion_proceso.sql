@@ -1,0 +1,5 @@
+BEGIN
+  --Llamado a proceso principal
+  USR_PARALLEL.PKG_PARALLEL_PROCESS.EJECUCION_PARALELA; 
+  
+END; 
